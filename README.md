@@ -1,7 +1,5 @@
 ### Hey guys, I'm Matheus!
 
-<!--
-**matheusmartins10/matheusmartins10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   Front-end Develoṕer at Casablanca Online
   
@@ -18,4 +16,3 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Matheus Martins](https://www.linkedin.com/in/matheus-martins-78859b117/)
 
 
--->
