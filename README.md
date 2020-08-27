@@ -10,9 +10,6 @@
 - 🔭 I’m currently working on Front-end Developer
 - ❤️ In love with functional programming
 
-### Languages and Tools:
-
-
 ### Find me elsewhere 🌎
 
 
