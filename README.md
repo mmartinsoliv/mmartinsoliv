@@ -1,7 +1,7 @@
 ### Hey guys, I'm Matheus!
 
 
-  Front-end Develoṕer at Casablanca Online
+  Front-end Developer at Casablanca Online
   
   🇧🇷 Living in São Paulo - SP 
   
