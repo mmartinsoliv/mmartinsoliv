@@ -1,7 +1,7 @@
 ### Hey guys, I'm Matheus!
 
 
-  Front-end Developer at Casablanca Online
+  Software Enginner at Gympass
   
   🇧🇷 Living in São Paulo - SP 
   
