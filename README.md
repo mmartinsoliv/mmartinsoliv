@@ -8,7 +8,7 @@
   Enthusiast of the best web & mobile development technologies.
 
 - 🔭 I’m currently working on Front-end Developer
-- ❤️ In love with functional programming
+- ❤️ In love with functional programming and design system
 
 ### Find me elsewhere 🌎
 
