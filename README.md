@@ -1,7 +1,7 @@
 ### Hey guys, I'm Matheus!
 
 
-  Software Enginner at Gympass
+  UI developer at Mercado Livre
   
   🇧🇷 Living in São Paulo - SP 
   
@@ -11,7 +11,6 @@
 - ❤️ In love with functional programming and design system
 
 ### Find me elsewhere 🌎
-
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Matheus Martins](https://www.linkedin.com/in/matheus-martins-78859b117/)
 
