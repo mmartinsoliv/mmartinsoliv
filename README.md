@@ -1,7 +1,7 @@
 ### Hey guys, I'm Matheus!
 
 
-  UI developer at Mercado Livre
+  UI developer at Grupo Boticário
   
   🇧🇷 Living in São Paulo - SP 
   
