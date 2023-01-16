@@ -1,7 +1,7 @@
 ### Hey guys, I'm Matheus!
 
 
-  UI developer at Grupo Boticário
+  UI developer
   
   🇧🇷 Living in São Paulo - SP 
   
