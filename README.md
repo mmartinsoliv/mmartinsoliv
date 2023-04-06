@@ -1,13 +1,11 @@
-### Hey guys, I'm Matheus!
+Hello, I’m Matheus.
 
+I'm a UI developer based in São Paulo. I'm interested in design systems, user/dev experience and under engineering.
 
-  UI developer
-  
-  🇧🇷 Living in São Paulo - SP 
-  
-  Enthusiast of the best web development technologies.
+I'm currently working at Mercado Livre as a DX Engineer.
 
-- ❤️ In love with functional programming, design system and DX.
+Previously, I worked at Gympass, where I focused on Yoga.
+
 
 ### Find me elsewhere 🌎
 
