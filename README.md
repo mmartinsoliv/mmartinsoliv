@@ -7,7 +7,7 @@ I'm currently working at Mercado Livre as a DX Engineer.
 Previously, I worked at Gympass, where I focused on [Yoga](https://gympass.github.io/yoga/).
 
 
-### Find me elsewhere 🌎
+### Find me elsewhere:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Matheus Martins](https://www.linkedin.com/in/matheus-martins-78859b117/)
-
+<a aligh="left" href="https://www.linkedin.com/in/mmartinsoliv" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+<a aligh="left" href="https://twitter.com/mmartinsoliv" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a>
