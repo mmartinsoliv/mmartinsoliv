@@ -4,7 +4,7 @@ I'm a UI developer based in São Paulo. I'm interested in design systems, user/d
 
 I'm currently working at Mercado Livre as a DX Engineer.
 
-Previously, I worked at Gympass, where I focused on Yoga.
+Previously, I worked at Gympass, where I focused on [Yoga](https://gympass.github.io/yoga/).
 
 
 ### Find me elsewhere 🌎
