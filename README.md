@@ -2,10 +2,9 @@ Hello, I’m Matheus.
 
 I'm a UI developer based in São Paulo. I'm interested in design systems, user/dev experience and under engineering.
 
-I'm currently working at Mercado Livre as a DX Engineer.
+I'm currently working at VTEX as a DX Engineer.
 
 Previously, I worked at Gympass, where I focused on [Yoga](https://gympass.github.io/yoga/).
-
 
 ### Find me elsewhere:
 
